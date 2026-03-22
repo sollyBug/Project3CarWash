@@ -72,10 +72,10 @@ This project provides a centralized web application that allows:
 * Advanced analytics dashboard
 
 ## 👨‍💻 Creators
-**Lyle Solomons**
-**Ethan Williams**
-**Redah Gamieldien**
-**Angelo Adams**
-**Qaasim Isaacs**
+**Lyle Solomons**  
+**Ethan Williams**  
+**Redah Gamieldien**  
+**Angelo Adams**  
+**Qaasim Isaacs**  
 **Rameez Karriem**
 
