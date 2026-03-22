@@ -1,4 +1,4 @@
-# 🚗 Car Wash Management System (Project3 idea)
+# 🚗 Car Wash Management System (Project3)
 A modern web-based solution designed to streamline operations for car wash businesses by digitizing bookings, payments, and staff management.
 
 ## 📌 Problem
